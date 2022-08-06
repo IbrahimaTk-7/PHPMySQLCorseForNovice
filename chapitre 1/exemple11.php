@@ -9,7 +9,7 @@
 <body>
     
     <?php
-
+        #while
         $count = 1;
         while ($count <= 10) {
             echo $count . " ";
